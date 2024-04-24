@@ -1,2 +1,2 @@
 # Safe Drive - Under Developemt
-Getting developed by Richit Bhat under ATL
+Getting developed by Richit Bhat
